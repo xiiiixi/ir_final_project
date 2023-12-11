@@ -7,7 +7,7 @@ Run the code in the IR_project folder
 1. Open cmd and input the command below: 
 
 ```bash
-python server.py or python server.py 
+python3 server.py or python server.py 
 ```
 
 2. The cmd will show which address you're using. 
